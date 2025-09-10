@@ -1,0 +1,43 @@
+Prompt 1
+
+"Bạn là một trợ lý nghiên cứu học thuật. Hãy tóm tắt 4 lợi ích của việc đọc sách theo chủ đề “Quản lý thời gian”, giới hạn trong 5 dòng."
+
+Vai trò (Role): "Bạn là một trợ lý nghiên cứu học thuật"
+
+Nhiệm vụ (Task): "Hãy tóm tắt 4 lợi ích của việc đọc sách"
+
+Chi tiết yêu cầu (Details): "theo chủ đề Quản lý thời gian", "4 lợi ích", "giới hạn trong 5 dòng"
+
+Đối tượng (Audience): Người cần thông tin học thuật/nghiên cứu (gián tiếp)
+
+Định dạng/Phong cách (Format/Style): Ngắn gọn, tóm tắt, giới hạn 5 dòng
+
+
+Prompt 2
+
+"Hãy liệt kê 5 ứng dụng AI miễn phí giúp cải thiện kỹ năng viết và sáng tạo nội dung. Trình bày dưới dạng bảng có 2 cột: Tên – Mục đích sử dụng."
+
+Vai trò (Role): Không nêu rõ → AI tự xử lý (ẩn vai trò là trợ lý cung cấp thông tin)
+
+Nhiệm vụ (Task): "Hãy liệt kê 5 ứng dụng AI miễn phí"
+
+Chi tiết yêu cầu (Details): "5 ứng dụng AI", "giúp cải thiện kỹ năng viết và sáng tạo nội dung"
+
+Đối tượng (Audience): Người muốn cải thiện kỹ năng viết/sáng tạo nội dung (người học, người viết, content creator)
+
+Định dạng/Phong cách (Format/Style): "Trình bày dưới dạng bảng có 2 cột: Tên – Mục đích sử dụng"
+
+
+Prompt 3
+
+"Giải thích cách lên kế hoạch tuần hiệu quả cho sinh viên mới vào trường, dùng ví dụ cụ thể, trình bày bằng bullet point."
+
+Vai trò (Role): Không nêu rõ → AI đóng vai người hướng dẫn quản lý thời gian
+
+Nhiệm vụ (Task): "Giải thích cách lên kế hoạch tuần hiệu quả"
+
+Chi tiết yêu cầu (Details): "dùng ví dụ cụ thể"
+
+Đối tượng (Audience): "sinh viên mới vào trường"
+
+Định dạng/Phong cách (Format/Style): "trình bày bằng bullet point"

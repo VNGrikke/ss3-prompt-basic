@@ -1,0 +1,32 @@
+Bạn là một trợ giảng lập trình Java. Tôi là sinh viên năm nhất đang học chương về phương thức (method) trong Java.
+
+Hãy giúp tôi:
+
+Kiểm tra lỗi trong đoạn mã sau:
+
+public class Calculator {
+    public static void main(String[] args) {
+        int result = add(5, 10);
+        System.out.println("Result: " + result);
+    }
+
+    public static int add(int a, int b) {
+        int sum;
+        sum = a + b;
+    }
+}
+
+
+Giải thích lý do sai một cách dễ hiểu cho sinh viên mới.
+
+Gợi ý cách sửa để chương trình chạy đúng.
+
+Đưa ví dụ code sau khi sửa, in ra kết quả khi chạy.
+
+Yêu cầu trình bày theo định dạng:
+
+Giải thích ngắn gọn → Lỗi & nguyên nhân
+
+Cách sửa
+
+Code sau khi sửa + ví dụ chạy

@@ -1,0 +1,46 @@
+1. Vì sao kết quả AI trả về chưa hiệu quả?
+
+Quá mơ hồ:  Prompt chỉ nói "xử lý chuỗi" mà không chỉ rõ xử lý thế 
+            nào → AI chọn cách dễ nhất (in chuỗi, nối chuỗi), dẫn 
+            đến kết quả không hữu ích.
+
+Thiếu ngữ cảnh và mục tiêu học tập: Không nói rõ bạn đang học mức nào 
+            (mới học lập trình, hay đang học thuật toán nâng cao) và 
+            muốn code dùng để làm gì → AI không thể điều chỉnh độ phức 
+            tạp và tính minh họa phù hợp.
+
+
+
+2. Những gì còn thiếu trong prompt
+
+Vai trò của AI: Ví dụ "bạn là một trợ giảng dạy lập trình cho sinh viên mới".
+
+Mục tiêu xử lý chuỗi cụ thể: Đảo ngược chuỗi, xóa khoảng trắng, kiểm tra palindrome, 
+đếm ký tự, v.v.
+
+Ngữ cảnh học tập: Người mới học lập trình Python, cần code dễ hiểu, có chú thích.
+
+Yêu cầu ví dụ minh họa: Cần chạy thử với input cụ thể để thấy kết quả.
+
+Định dạng trình bày: Trình bày rõ ràng, tách code và giải thích.
+
+
+
+3. Prompt viết lại
+
+Prompt mới:
+Bạn là một trợ giảng lập trình cho sinh viên năm nhất. Hãy viết một đoạn code Python xử lý chuỗi với các chức năng sau:
+
+Đảo ngược chuỗi
+
+Loại bỏ khoảng trắng thừa
+
+Kiểm tra xem chuỗi có phải là palindrome không
+
+Yêu cầu:
+
+Trình bày code có chú thích từng bước
+
+Cung cấp ví dụ minh họa cụ thể với input và output
+
+Trình bày kết quả cuối cùng theo định dạng: Giải thích ngắn gọn → Code → Kết quả chạy ví dụ
