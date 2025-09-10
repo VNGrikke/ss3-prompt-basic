@@ -1,0 +1,34 @@
+Role Prompting: Bạn là một giáo viên đại học. Hãy giải thích 3 ứng dụng quan trọng nhất 
+của AI trong giáo dục cho sinh viên năm nhất
+
+Format Prompting: Hãy liệt kê 5 ứng dụng AI trong giáo dục dưới dạng bảng có 2 cột: Ứng 
+dụng – Lợi ích
+
+Context Prompting: Giải thích cách AI hỗ trợ học tập cá nhân hóa cho sinh viên đại học, 
+tập trung vào những người mới bắt đầu học online
+
+
+
+Role Prompting (giáo viên):
+
+Điểm mạnh: Giọng văn gần gũi, dễ hiểu cho sinh viên.
+
+Hạn chế: Số lượng ứng dụng ít, thiếu chi tiết.
+
+Phù hợp: Khi cần giải thích đơn giản, định hướng cho người học.
+
+Format Prompting (bảng):
+
+Điểm mạnh: Rõ ràng, dễ so sánh, có cấu trúc.
+
+Hạn chế: Ít chiều sâu, thiên về liệt kê.
+
+Phù hợp: Khi cần tài liệu nhanh, tóm tắt, dễ tra cứu.
+
+Context Prompting (sinh viên học online):
+
+Điểm mạnh: Gắn với tình huống thực tế, có tính ứng dụng cao.
+
+Hạn chế: Phạm vi hẹp, không khái quát được toàn bộ chủ đề.
+
+Phù hợp: Khi cần ứng dụng cụ thể trong một bối cảnh rõ ràng.
