@@ -1,0 +1,40 @@
+khi dùng prompt 1:
+
+Giải thích khá chi tiết và kỹ thuật, có:
+
+    Định nghĩa vòng lặp
+
+    Các loại vòng lặp phổ biến (for, while, do-while, foreach)
+
+    Ví dụ bằng Java
+
+    Các tình huống dễ sai (vòng lặp vô hạn)
+
+    Ứng dụng thực tế
+
+Đặc điểm:
+
+    Dùng ngôn ngữ hơi “học thuật”, hợp cho sinh viên đã quen khái niệm cơ bản.
+
+    Ví dụ bằng Java, hơi kém thân thiện với người mới chưa biết cú pháp.
+
+    Nặng tính phân tích, có nhiều “góc nhìn khác” và cảnh báo lỗi thường gặp.
+
+
+khi dùng prompt 2: 
+
+    Ngôn ngữ giản dị, gần gũi, có ví dụ đời thường (“viết 100 lần câu…”)
+
+    Giới thiệu ngắn gọn về vòng lặp và hai loại chính (for, while).
+
+    Ví dụ minh họa bằng Python, dễ hiểu với người mới học.
+
+    Giải thích chi tiết từng dòng code và kết quả in ra.
+
+Đặc điểm:
+
+    Thân thiện với người mới bắt đầu.
+
+    Ít phân tích chuyên sâu, thiên về trực quan, dễ tiếp thu.
+
+    Phù hợp với giảng viên khi giảng bài cho sinh viên năm nhất hoặc người mới học lập trình.

@@ -1,0 +1,7 @@
+Prompt (1) rất cụ thể, định hình rõ ràng output (so sánh công cụ theo bảng, có ba cột chính).
+-> Ưu điểm: dễ dàng cho AI (hoặc bất kỳ người nào) trả lời đúng ý, kết quả trực tiếp hữu dụng cho bạn.
+-> Nhược điểm: bó hẹp phạm vi, bạn nhận được câu trả lời “đúng khuôn” chứ không khơi gợi thêm góc nhìn ngoài bảng.
+
+Prompt (2) lại mang tính mở, meta, khuyến khích phân tích chiến lược.
+-> Ưu điểm: giúp bạn hiểu tại sao một cách đặt câu hỏi tốt hơn, và từ đó học được kỹ năng “prompt engineering” để áp dụng cho nhiều tình huống khác.
+-> Nhược điểm: nó không tạo ra “bảng so sánh cụ thể” ngay, mà thiên về hướng dẫn cách tư duy.
